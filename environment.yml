@@ -1,0 +1,6 @@
+dependencies:
+  - math
+  - numpy
+  - scipy
+  - matplotlib
+  - notebook
