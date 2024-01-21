@@ -6,7 +6,7 @@ A program to calculate the area of a circle, with user input for the radius
 import math
 
 # declare variables and assign values
-radius = float(input())
+radius = float(input("Enter the radius of the circle: "))
 
 # do the calculations
 area = math.pi * radius * radius
